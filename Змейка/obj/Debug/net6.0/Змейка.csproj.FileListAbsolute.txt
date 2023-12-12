@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Змейка\Змейка\bin\Debug\net6.0\Змейка.exe
+C:\Users\User\source\repos\Змейка\Змейка\bin\Debug\net6.0\Змейка.deps.json
+C:\Users\User\source\repos\Змейка\Змейка\bin\Debug\net6.0\Змейка.runtimeconfig.json
+C:\Users\User\source\repos\Змейка\Змейка\bin\Debug\net6.0\Змейка.dll
+C:\Users\User\source\repos\Змейка\Змейка\bin\Debug\net6.0\Змейка.pdb
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\Змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\Змейка.AssemblyInfo.cs
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\Змейка.dll
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\refint\Змейка.dll
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\Змейка.pdb
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\Змейка.genruntimeconfig.cache
+C:\Users\User\source\repos\Змейка\Змейка\obj\Debug\net6.0\ref\Змейка.dll
